@@ -6,11 +6,11 @@ This Flight Management System project is developed in Java, implementing Object-
 
 <h3>Login Account</h3> Registered users can log in to the system using their credentials. The system retrieves account details from the "DATA.txt" file to verify the user during login.
 
-<h3>Variable Class</h3>h3> A dedicated "Variable" class holds all the necessary variables, such as Uname, Passcode, name, contact, and CNIC, used throughout the application for easier management and maintenance.
+<h3>Variable Class</h3> A dedicated "Variable" class holds all the necessary variables, such as Uname, Passcode, name, contact, and CNIC, used throughout the application for easier management and maintenance.
 
-<h3>Billdata Class</h3>h3> The "Billdata" class contains a "cal" function that calculates the fare based on user input. It takes a String input, processes it, and returns the calculated fare in String format.
+<h3>Billdata Class</h3> The "Billdata" class contains a "cal" function that calculates the fare based on user input. It takes a String input, processes it, and returns the calculated fare in String format.
 
-<h3>TicketFareCheck Class</h3>h3> This class enables users to check the fare for a specific flight route. Users can select departure and destination cities from combo boxes. When the "Check Fare" button is clicked, the system calculates the fare using the "cal()" method and displays it in a message dialog.
+<h3>TicketFareCheck Class</h3> This class enables users to check the fare for a specific flight route. Users can select departure and destination cities from combo boxes. When the "Check Fare" button is clicked, the system calculates the fare using the "cal()" method and displays it in a message dialog.
 
 <h3>BookTicket Class</h3> Users can book flight tickets by selecting departure and destination cities. The system calculates the fare based on the selected cities and generates a unique ticket ID using the "numGen()" method. The ticket information, including ticket ID, departure, destination, and fare, is stored in a file named "Ticket.txt". Additionally, the booking information is stored in separate files named after the user's name (e.g., "Uname.txt").
 
@@ -29,8 +29,8 @@ This Flight Management System project is developed in Java, implementing Object-
 The Flight Management System is designed to simplify the booking process and provide a smooth experience for users to manage their flight tickets efficiently. Users can create accounts, log in securely, check fare for different routes, and book flight tickets seamlessly.
 
 <h3>Future Enhancements</h3>
-Implementing user authentication and authorization for enhanced security.
-Integrating a database to store and manage user account details and ticket information.
-Implementing seat selection and availability checks for flight bookings.
-Enhancing the user interface to provide a more engaging and intuitive experience.
-Feel free to contribute to this project on GitHub, and together, we can make this Flight Management System even better!
+1)Implementing user authentication and authorization for enhanced security.
+2)Integrating a database to store and manage user account details and ticket information.
+3)Implementing seat selection and availability checks for flight bookings.
+4)Enhancing the user interface to provide a more engaging and intuitive experience.
+5)Feel free to contribute to this project on GitHub, and together, we can make this Flight Management System even better!
