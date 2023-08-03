@@ -29,8 +29,8 @@ This Flight Management System project is developed in Java, implementing Object-
 The Flight Management System is designed to simplify the booking process and provide a smooth experience for users to manage their flight tickets efficiently. Users can create accounts, log in securely, check fare for different routes, and book flight tickets seamlessly.
 
 <h3>Future Enhancements</h3>
-1)Implementing user authentication and authorization for enhanced security.
-2)Integrating a database to store and manage user account details and ticket information.
-3)Implementing seat selection and availability checks for flight bookings.
-4)Enhancing the user interface to provide a more engaging and intuitive experience.
-5)Feel free to contribute to this project on GitHub, and together, we can make this Flight Management System even better!
+1)Implementing user authentication and authorization for enhanced security.<br>
+2)Integrating a database to store and manage user account details and ticket information.<br>
+3)Implementing seat selection and availability checks for flight bookings.<br>
+4)Enhancing the user interface to provide a more engaging and intuitive experience.<br>
+5)Feel free to contribute to this project on GitHub, and together, we can make this Flight Management System even better!<br>
