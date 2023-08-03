@@ -2,7 +2,7 @@
 This Flight Management System project is developed in Java, implementing Object-Oriented Programming (OOP) concepts such as Encapsulation, Abstraction, Inheritance, and Polymorphism. The system provides essential functionalities for managing flight tickets, user accounts, and fare calculations.
 
 <h2>Features</h2>
-<h3Create</h3> Account: Users can create accounts by providing their essential details, including username, password, name, contact information, and CNIC. The account information is stored in a TXT file using File Handling for future access.
+<h3CreateAccount</h3> : Users can create accounts by providing their essential details, including username, password, name, contact information, and CNIC. The account information is stored in a TXT file using File Handling for future access.
 
 Login Account: Registered users can log in to the system using their credentials. The system retrieves account details from the "DATA.txt" file to verify the user during login.
 
