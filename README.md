@@ -1,4 +1,4 @@
-Flight Management System (Java)
+<h1>Flight Management System (Java)</h1>
 This Flight Management System project is developed in Java, implementing Object-Oriented Programming (OOP) concepts such as Encapsulation, Abstraction, Inheritance, and Polymorphism. The system provides essential functionalities for managing flight tickets, user accounts, and fare calculations.
 
 Features
